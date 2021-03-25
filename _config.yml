@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: blog.iproute.net
+avatar: https://raw.githubusercontent.com/iproute-net/iproute-net.github.io/master/images/icon_S.png
 email: keyvan@iproute.net
 description: >- # this means to ignore newlines until "baseurl:"
     iproute.net is a Networking blog maintained by Keyvan Ghadimi.
