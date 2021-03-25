@@ -6,7 +6,6 @@ author: "Keyvan"
 published: true
 ---
 
-# Exploring Internetworking in Linux (Layer2/Layer3 survey)
 In this post, we are going to explore Linux commands, which helps us to look around the layer 2 functionality in the Linux networking stack.
 ## Bridging
 If you are using Open Switches and open network Linux OS (Like cumulus OS), or have a bridge on your Linux machine then you need check the MAC address table.
