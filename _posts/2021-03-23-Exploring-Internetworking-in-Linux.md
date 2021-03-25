@@ -3,7 +3,7 @@ layout: posts
 title: Exploring Internetworking in Linux (Layer2/Layer3 survey)
 categories: Linux_Networking 
 author: "Keyvan"
-published: true
+#published: true
 ---
 
 In this post, we are going to explore Linux commands, which helps us to look around the layer 2 functionality in the Linux networking stack.
