@@ -9,7 +9,6 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
@@ -72,9 +71,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iproute-net/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
 
 footer:
   links:
@@ -84,10 +80,23 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iproute-net/"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
 
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all 
+  ignore:
+    envs: development
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -109,10 +118,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+      sidebar:
+        nav: "links"
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      comments: true
+      sidebar:
+        nav: "links"
