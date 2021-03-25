@@ -60,7 +60,7 @@ author:
   name   : "Keyvan Ghadimi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Welcome to iproute.net blog.
-            iproute.net is a Networking blog and it's  about my journey in the Networking world. I will write my lesson learned and study notes he            re. "
+            iproute.net is a Networking blog and it's  about my journey in the Networking world. I will write my lesson learned and study notes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
