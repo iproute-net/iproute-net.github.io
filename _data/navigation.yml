@@ -7,3 +7,14 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://blog.iproute.net"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/Iproutenet"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/iproute-net/"
