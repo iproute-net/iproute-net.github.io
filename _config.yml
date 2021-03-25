@@ -100,6 +100,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "links"
   # _pages
   - scope:
       path: "_pages"
