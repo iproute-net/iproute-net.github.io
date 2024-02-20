@@ -4,7 +4,7 @@ title = "blog.iproute.net"
 description = "Welcome to blog.iproute.net. My name is Keyvan and working as a Senior Network Engineer. This blog has real-life stories, study notes, and helpful tips. We will explore the exciting world of networks together!"
 
 # The site theme to use.
-theme = "adidoks"
+theme = "ataraxia"
 
 # The default language; used in feeds and search index
 # Note: the search index doesn't support Chinese/Japanese/Korean Languages
