@@ -2,7 +2,7 @@
 title = "Privacy Policy"
 description = "We do not use cookies and we do not collect any personal data."
 date = 2021-05-01T08:00:00+00:00
-updated = 2020-05-01T08:00:00+00:00
+updated = 2023-08-01T08:00:00+00:00
 draft = false
 
 [extra]
@@ -22,6 +22,6 @@ __TLDR__: We do not use cookies and we do not collect any personal data.
 
 ## Contact us
 
-[Contact us](https://github.com/aaranxu/adidoks) if you have any questions.
+[Contact us](keyvan@iproute.net) if you have any questions.
 
-Effective Date: _1st May 2021_
+Effective Date: _1st Aug 2023_

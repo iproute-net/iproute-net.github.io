@@ -9,7 +9,7 @@ lead = 'My name is Keyvan and working as a Senior Network Engineer. This blog ha
 # Menu items
 [[extra.menu.main]]
 name = "About"
-section = "docs"
+section = "about"
 url = "authors/keyvan_ghadimi.md"
 weight = 10
 
@@ -18,5 +18,11 @@ name = "Blog"
 section = "blog"
 url = "/blog/"
 weight = 20
+
+[[extra.menu.main]]
+name = "Docs"
+section = "docs"
+url = "docs/"
+weight = 10
 
 +++

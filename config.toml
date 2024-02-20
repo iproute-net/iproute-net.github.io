@@ -86,8 +86,8 @@ enable = true
 image = "doks.png"
 twitter_site = "iproutenet"
 twitter_creator = "iproutenet"
-facebook_author = "ichunyun"
-facebook_publisher = "ichunyun"
+facebook_author = ""
+facebook_publisher = ""
 og_locale = "en_US"
 
 ## JSON-LD
@@ -106,7 +106,7 @@ site_links_search_box = false
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "/docs/getting-started/introduction/"
+url = "/docs/"
 weight = 10
 
 [[extra.menu.main]]
@@ -144,7 +144,3 @@ name = "Privacy"
 url = "/privacy-policy/"
 weight = 10
 
-[[extra.footer.nav]]
-name = "Code of Conduct"
-url = "/docs/contributing/code-of-conduct/"
-weight = 20
