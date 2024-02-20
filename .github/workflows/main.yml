@@ -5,7 +5,8 @@ on:
  push:
   branches:
    - master
-
+  paths-ignore:
+   - 'themes/adidoks/content/blog/**'
 jobs:
   build:
     name: Publish site
