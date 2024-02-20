@@ -1,6 +1,6 @@
 +++
 title = "blog.iproute.net"
-
+description = "Networking real-life stories "
 
 # The homepage contents
 [extra]
@@ -9,20 +9,25 @@ lead = 'My name is Keyvan and working as a Senior Network Engineer. This blog ha
 # Menu items
 [[extra.menu.main]]
 name = "About"
-section = "about"
-url = "authors/keyvan_ghadimi.md"
+section = "authers"
+url = "/authors/"
 weight = 10
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
+name = "Posts"
+section = "Posts"
+url = "/posts/"
 weight = 20
 
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "[docs/](https://github.com/iproute-net/iproute-net.github.io/tree/master/content/docs)"
+url = "https://github.com/iproute-net/iproute-net.github.io/tree/master/content/docs"
 weight = 10
 
 +++
+
+Here you can find my study notes
+some text
+text
+text

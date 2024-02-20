@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://blog.iproute.net/blog/running-big-datacenter-scenarios-via-containerlab/"/>
-        <id>https://blog.iproute.net/blog/running-big-datacenter-scenarios-via-containerlab/</id>
+        <link rel="alternate" type="text/html" href="https://blog.iproute.net/posts/running-big-datacenter-scenarios-via-containerlab/"/>
+        <id>https://blog.iproute.net/posts/running-big-datacenter-scenarios-via-containerlab/</id>
         
-        <content type="html" xml:base="https://blog.iproute.net/blog/running-big-datacenter-scenarios-via-containerlab/">&lt;p&gt;In this article I want to share some tips I faced in using clab(&lt;a href=&quot;https:&#x2F;&#x2F;containerlab.dev&quot;&gt;&lt;em&gt;Containerlab&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;).
+        <content type="html" xml:base="https://blog.iproute.net/posts/running-big-datacenter-scenarios-via-containerlab/">&lt;p&gt;In this article I want to share some tips I faced in using clab(&lt;a href=&quot;https:&#x2F;&#x2F;containerlab.dev&quot;&gt;&lt;em&gt;Containerlab&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;).
 I am using &lt;strong&gt;CentOS Stream release 8&lt;&#x2F;strong&gt; in an old server with Gen1 intel xeon (Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz) and 128GB of RAM.
 I used Arista cEOS 4.27.3F. 
 some of the scenarios are explained here: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arista-netdevops-community&#x2F;avd-cEOS-Lab&quot;&gt;&lt;em&gt;Arista Validated design with cEOS-lab&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;

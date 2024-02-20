@@ -68,11 +68,6 @@ title_addition = "Networking Notes, Insights from a Network Engineer"
 timeformat = "%B %e, %Y" # e.g. June 14, 2021
 timezone = "Europe/Berlin"
 
-# Edit page on reposity or not
-edit_page = false
-docs_repo = "https://github.com/aaranxu/adidoks"
-repo_branch = "main"
-
 ## Math settings
 # options: true, false. Enable math support globally,
 # default: false. You can always enable math on a per page.
@@ -110,9 +105,9 @@ url = "/docs/"
 weight = 10
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
+name = "Posts"
+section = "Posts"
+url = "/posts/"
 weight = 20
 
 [[extra.menu.social]]

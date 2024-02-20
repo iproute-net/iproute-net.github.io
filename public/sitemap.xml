@@ -11,17 +11,17 @@
         <lastmod>2021-04-01T08:50:45+00:00</lastmod>
     </url>
     <url>
-        <loc>https://blog.iproute.net/blog/</loc>
-    </url>
-    <url>
-        <loc>https://blog.iproute.net/blog/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://blog.iproute.net/blog/running-big-datacenter-scenarios-via-containerlab/</loc>
-        <lastmod>2023-08-11T09:19:42+00:00</lastmod>
-    </url>
-    <url>
         <loc>https://blog.iproute.net/docs/readme/</loc>
+    </url>
+    <url>
+        <loc>https://blog.iproute.net/posts/</loc>
+    </url>
+    <url>
+        <loc>https://blog.iproute.net/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blog.iproute.net/posts/running-big-datacenter-scenarios-via-containerlab/</loc>
+        <lastmod>2023-08-11T09:19:42+00:00</lastmod>
     </url>
     <url>
         <loc>https://blog.iproute.net/privacy-policy/</loc>
