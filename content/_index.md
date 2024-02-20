@@ -22,7 +22,7 @@ weight = 20
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "docs/"
+url = "[docs/](https://github.com/iproute-net/iproute-net.github.io/tree/master/content/docs)"
 weight = 10
 
 +++
